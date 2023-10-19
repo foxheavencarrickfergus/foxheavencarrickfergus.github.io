@@ -9,10 +9,11 @@ body { line-height: 1.5; min-height: 100vh }
 img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
 
-/* ================= ENDS ================ */
-
 /* ====== PADDING AROUND WEB PAGE BODY CONTENT ======  */
 body { padding: 4% 20% }
+/* ================= ENDS ================ */
+
+
 
 body {
     text-align: center;
