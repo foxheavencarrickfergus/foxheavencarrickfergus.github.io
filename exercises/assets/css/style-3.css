@@ -41,3 +41,35 @@ p {
 
 
 a { color: blue; }
+
+
+.section-1 {
+    background-color: lemonchiffon;
+
+}
+
+.section-2 {
+    background-color: lightgreen;
+
+}
+
+.section-3 {
+    background-color: lightblue;
+
+
+}
+
+.section-4 {
+    background-color: darkblue;
+    
+}
+
+.section-4 h2,
+.section-4 p { 
+    color: white;
+}
+
+.section-5 {
+    background-color: lightcoral;
+
+}
